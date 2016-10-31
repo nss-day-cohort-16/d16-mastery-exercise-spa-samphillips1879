@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+    	"make": "Tesla",
+    	"model": "Roadster",
+    	"year": "2010",
+    	"price": "100000",
+    	"description": "Sleek ninja cruiser that will allow you to silently sneak up on your enemies."
+    },
+    {
+    	"make": "Nissan",
+    	"model": "XTerra",
+    	"year": "2005",
+    	"price": "6000",
+    	"description": "This beautiful yellow vehicle would make a great booth from which you could sell delicious frozen bananas."
+    }
+  ]
+}
