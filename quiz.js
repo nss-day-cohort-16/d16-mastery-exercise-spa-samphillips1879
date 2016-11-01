@@ -5,18 +5,9 @@ function populatePage (carsArray) {
 			let carDiv = document.createElement("div");
 			carDiv.innerHTML = carString;
 			document.getElementById("inventoryOutput").appendChild(carDiv);
-
 	});
-  // Loop over the inventory and populate the page
-  
-  // Now that the DOM is loaded, establish all the event listeners needed
   CarLot.activateEvents();
 };
-
-// Load the inventory and send a callback function to be
-// invoked after the process is complete
-
-
 var carLoader = new XMLHttpRequest;
 carLoader.addEventListener("load", CarLot.processInventory);
 carLoader.open("GET", "inventory.json");

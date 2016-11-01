@@ -2,29 +2,13 @@
 	/*border: 5px solid black;*/
 	width: 80%;
 	margin: auto;
-	
 }
-
-
 .carCard {
 	border: 1px solid black;
 	min-height: 200px;
 }
-
 .activeCar {
-	border: 3px solid black;
-	background-color: lightblue;
-
+	/*commented out so as to meet the unnecessarily complicated*/
+/*	border: 3px solid black;
+	background-color: lightblue;*/
 }
-
-/*.selected {
-
-}*/
-
-
-/*#mainWrapper {
-	border: 5px solid black;
-	width: 80%;
-	margin: auto;
-
-}*/
