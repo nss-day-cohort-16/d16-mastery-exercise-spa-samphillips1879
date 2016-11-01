@@ -15,6 +15,8 @@ var CarLot = (function(oldCarLot) {
 	};
 	oldCarLot.unselect = function() {
 		let selectedCars = document.getElementsByClassName("activeCar");
+
+		
 		//the next for loop could easily be replaced by the .classList method below it, if I uncommented the styling in quiz.css of the .activeCar class.... However, the instructions request that the background color is passed in as an argument.... while this is unnecessarily complicated for this situation, I did it, because that's what the instructions say to do
 
 		//to clean up, remove the chunk starting here

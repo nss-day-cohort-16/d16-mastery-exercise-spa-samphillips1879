@@ -1,7 +1,6 @@
 function populatePage (carsArray) {
 	carsArray.forEach(function(car, index) {
 			let carString = `<div class="col-md-4 carCard" id="car--${index}"><h2>${car.year} ${car.make} ${car.model}</h2><h4>$${car.price}</h4><p>${car.description}</p>`;
-			// console.log("carString", carString);
 			let carDiv = document.createElement("div");
 			carDiv.innerHTML = carString;
 			document.getElementById("inventoryOutput").appendChild(carDiv);
