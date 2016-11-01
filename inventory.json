@@ -20,6 +20,47 @@
     	"year": "2005",
     	"price": "6000",
     	"description": "This beautiful yellow vehicle would make a great booth from which you could sell delicious frozen bananas."
+    },
+    {
+      "make": "Glissan",
+      "model": "Glogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "blah blah blah."
+    },
+    {
+    	"make": "Snarf",
+    	"model": "Snarf",
+    	"year": "Snarf",
+    	"price": "Snarf",
+    	"description": "Snaaaaaaaaaaaaaaaaaaaarf."
+    },
+    {
+    	"make": "Nian",
+    	"model": "XTa",
+    	"year": "25",
+    	"price": "60",
+    	"description": "This bananas."
+    },
+    {
+      "make": "Fisher Price",
+      "model": "Hello Kitty",
+      "year": "2016",
+      "price": "24.99",
+      "description": "Adorable little car for your kid."
+    },
+    {
+      "make": "Fisher Price",
+      "model": "Zombie Defence Machine",
+      "year": "2016",
+      "price": "24.99",
+      "description": "Hardcore zombie survival vehicle equipped with armor plating, machine gun, and barbed wire."
+    },{
+      "make": "Fisher Price",
+      "model": "Nothing",
+      "year": "2016",
+      "price": "24.99",
+      "description": "This car literally doesn't exist."
     }
   ]
 }
