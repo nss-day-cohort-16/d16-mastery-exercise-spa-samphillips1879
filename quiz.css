@@ -1,7 +1,18 @@
+body {
+	background: url("carVending.jpg");
+}
+
+.navbar {
+	background-color: lightpink;
+	border-color: black;
+}
+
 .container {
-	/*border: 5px solid black;*/
+	border: 5px solid black;
 	width: 80%;
 	margin: auto;
+	background-color: lightpink;
+	padding: 0;
 }
 .carCard {
 	border: 1px solid black;

@@ -19,7 +19,7 @@ var CarLot = (function(oldCarLot) {
 
 		//to clean up, remove the chunk starting here
 		for(let i = 0; i < selectedCars.length; i ++) {
-			selectedCars[i].style = "background-color:white;border:1px solid black;";
+			selectedCars[i].style = "background-color:lightpink;border:1px solid black;";
 		//and ending here
 
 			selectedCars[i].classList.remove("activeCar");
