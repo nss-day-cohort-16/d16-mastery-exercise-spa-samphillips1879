@@ -4,8 +4,6 @@ var CarLot = (function(oldCarLot) {
 		let userInput = document.getElementById("descriptionInput");
 		userInput.value = "";
 		userInput.focus();
-		console.log("card", card);
-		console.log("color", color);
 		card.classList.toggle("activeCar");
 
 				//to clean up, remove the chunk starting here
