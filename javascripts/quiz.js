@@ -1,8 +1,5 @@
 "use strict";
 
-
-
-
 function populatePage (carsArray) {
 	let i = 0,
 	carString = '',
@@ -36,12 +33,5 @@ function populatePage (carsArray) {
 	});
   CarLot.activateEvents();
 };
-
-
-
-
-	
-
-
 
 CarLot.loadInventory();
