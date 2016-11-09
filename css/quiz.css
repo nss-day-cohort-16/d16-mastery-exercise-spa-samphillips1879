@@ -12,6 +12,9 @@ body {
   background-color: lightpink;
   padding: 0; }
 
+div {
+  margin: 0; }
+
 .carCard {
   border: 1px solid black;
   height: 250px;

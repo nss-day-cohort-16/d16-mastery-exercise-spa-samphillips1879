@@ -26,6 +26,9 @@ var CarLot = (function(oldCarLot) {
 			selectedCars[i].classList.remove("activeCar");
 		};
 	};
+
+
+	
 	oldCarLot.descriptionUpdate = function(event) {
 		let selectedCars = document.getElementsByClassName("activeCar");
 		for(let i = 0; i < selectedCars.length; i ++) {
