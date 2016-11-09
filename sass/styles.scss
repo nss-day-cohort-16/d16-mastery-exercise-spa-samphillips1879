@@ -1,0 +1,30 @@
+body {
+	background: url("../carVending.jpg");
+}
+
+.navbar {
+	background-color: lightpink;
+	border-color: black;
+}
+
+.container {
+	border: 5px solid black;
+	width: 80%;
+	margin: auto;
+	background-color: lightpink;
+}
+
+div {
+	margin: 0;
+}
+
+.carCard {
+	border: 1px solid black;
+	height: 250px;
+	overflow: scroll;
+}
+.activeCar {
+	/*commented out so as to meet the unnecessarily complicated*/
+/*	border: 3px solid black;
+	background-color: lightblue;*/
+}
