@@ -1,3 +1,4 @@
+"use strict";
 var CarLot = (function(oldCarLot) {
 
 	oldCarLot.select = function(card, color) {
